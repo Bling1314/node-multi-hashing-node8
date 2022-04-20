@@ -15,8 +15,8 @@
         "test": "node-gyp clean && node-gyp configure && node-gyp build"
     },
     "dependencies": {
-        "bindings": "*",
-        "nan": "^2.6.2"
+        "bindings": "1.3.0",
+        "nan": "2.6.2"
     },
     "keywords": [
         "scrypt",
